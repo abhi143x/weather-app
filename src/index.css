@@ -11,3 +11,8 @@
   display: grid;
   background: linear-gradient(45deg,#0b465b,#a52bce);
 }
+
+html, body {
+  width: 100%;
+  overflow-x: hidden;
+}
