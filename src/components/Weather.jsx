@@ -4,7 +4,7 @@ import search_icon from "../assets/search.png";
 import clear_icon from "../assets/sun.png";
 import moon_icon from "../assets/moon.png";
 import cloud_icon from "../assets/cloud.png";
-import nCloud_icon from "../assets/nightCloud.png";
+import nCloud_icon from "../assets/nightcloud.png";
 import rain_icon from "../assets/dRain.png";
 import snow_icon from "../assets/dSnow.png";
 import wind_icon from "../assets/dWind.png";
