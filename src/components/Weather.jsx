@@ -85,10 +85,12 @@ const Weather = () => {
   }, []);
 
   return (
+    <div>
+      <h1 className="heading">WEATHER APP </h1>
     <div className="container">
       <div className="weather">
         <div className="search-bar">
-          <input ref={inputRef} type="text" placeholder="Search" />
+          <input ref={inputRef} type="text" placeholder="Enter City Name" />
           <img
             src={search_icon}
             alt=""
@@ -115,6 +117,7 @@ const Weather = () => {
           </div>
         </div>
       </div>
+    </div>
     </div>
   );
 };
